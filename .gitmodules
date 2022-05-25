@@ -1,0 +1,3 @@
+[submodule "packages/submodule"]
+	path = packages/submodule
+	url = git@github.com:mattschouten/experiment-sub-repo.git
